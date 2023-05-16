@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
 <h3 align="left">Software Engineer(Trainee) @ BJIT Academy</h3>
 
-<p> I'm a passionate Data Scientist from Bangladesh with over 2 years of experience (Research Assistant) in building automated system using Django, Python, Machine Learning, Deep Learning, Natural Language Pocessing, ReactJS, NodeJS, HTML, CSS, SQL, etc. I have a strong foundation in machine learning techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
+<p> I'm a passionate Data Scientist from Bangladesh with over 2 years of experience (Research Assistant) in building automated system using Python, Machine Learning, Deep Learning, Natural Language Pocessing etc. I have a strong foundation in machine learning techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
