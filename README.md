@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
 <h3 align="left">Software Engineer(Trainee Java) @ BJIT Academy</h3>
 
-<p> I'm a passionate Data Scientist from Bangladesh with over 2 years of experience (Research Assistant) in building automated system using Python, Machine Learning, Deep Learning, Natural Language Pocessing etc. I have a strong foundation in machine learning techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
+<p> I'm a passionate Data Scientist from Bangladesh with over 2 years of experience (Research Assistant) in building automated systems using Python, Machine Learning, Deep Learning, Natural Language Processing, etc. I have a strong foundation in machine learning technologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-<p>Currently, I am working on BJET Academy (a Bangladesh Japan IT Engineer Training Program) as a JAVA Trainee.</p>
+<p>Currently, I am working at BJIT Academy (a Bangladesh Japan IT Engineer Training Program) as a JAVA Trainee.</p>
 
 <h3 align = "left"> 🧠 What I'm currently learning </h3>
 
-<p>I'm currently learning Python, Java, AWS, Data Science, to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Data Scientist.</p>
+<p>I'm currently learning Python, Java, AWS, and Data Science, to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Data Scientist.</p>
 
 <h3 align = "left"> 💬 Ask me about </h3>
 
