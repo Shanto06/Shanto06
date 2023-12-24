@@ -1,20 +1,20 @@
 <h1 align="left">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
-<h3 align="left">Software Engineer(Trainee Java) @ BJIT Academy</h3>
+<h3 align="left">Software Engineer(Intern) @ Polygon Technology </h3>
 
-<p> I'm a passionate Data Scientist from Bangladesh with over 2 years of experience (Research Assistant) in building automated systems using Python, Machine Learning, Deep Learning, Natural Language Processing, etc. I have a strong foundation in machine learning technologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
+<p> I'm a passionate Data Scientist from Bangladesh with over two years of experience (Research Assistant) in building automated systems using Python, Machine Learning, Deep Learning, Natural Language Processing, etc. I have a strong foundation in machine learning technologies and constantly learn new technologies to stay up-to-date with the latest trends.</p>
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-<p>Currently, I am working at BJIT Academy (a Bangladesh Japan IT Engineer Training Program) as a JAVA Trainee.</p>
+<p>Currently, I am working at Polygon Technology as a Software Engineer(Intern).</p>
 
 <h3 align = "left"> 🧠 What I'm currently learning </h3>
 
-<p>I'm currently learning Python, Java, AWS, and Data Science, to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Data Scientist.</p>
+<p>I'm currently learning Java, Spring Boot, Python, and Data Science to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Data Scientist.</p>
 
 <h3 align = "left"> 💬 Ask me about </h3>
 
 <ul>
-  <li>Topics: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Git/GitHub</li>
+  <li>Topics: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Git/GitHub, Java, Spring Boot</li>
   <li>Technologies: Tensorflow, Opencv, Pytorch, Numpy, Pandas, Scikit-Learn</li>
 </ul>
 
@@ -64,6 +64,7 @@
 <ul>
   <li> Machine Learning and Deep Learning LAB, Dept. of CSE, JUST, Research Assistant, Mar. 2021 - Jan. 2023. <br>
 My responsibilities included conducting literature reviews, preparing and analyzing data, developing and implementing machine learning models, writing technical reports and presenting research findings, collaborating with team members, and staying up-to-date with the latest developments in the field. My one of greatest project is Decision Support System for Pest Control in Agriculture which funded by ICT Division. Technologies used: Deep Learning, Python, anaconda, Jupyter Notebook.</li>
+  <li>Software Engineer (Trainee) at BJIT</li>
 </ul>
 
 <h3 align="left">🎓 Education</h3>
