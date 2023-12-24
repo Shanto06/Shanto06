@@ -70,7 +70,7 @@ My responsibilities included conducting literature reviews, preparing and analyz
 <h3 align="left">🎓 Education</h3>
 <ul>
   <li> Jashore University of Science and Technology, B.Sc. in CSE, 2023 </li>
-   <li> CGPA: 3.61 </li>
+   <li> CGPA: 3.61 [Second Position]</li>
 </ul>
 
 <h3 align="left">📚 Training</h3>
