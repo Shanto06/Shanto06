@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
-<h3 align="left">Software Engineer(Intern) @ Polygon Technology </h3>
+<h3 align="left">Software Engineer (Intern) @ Polygon Technology </h3>
 
-<p> I'm a passionate Data Scientist from Bangladesh with over two years of experience (Research Assistant) in building automated systems using Python, Machine Learning, Deep Learning, Natural Language Processing, etc. I have a strong foundation in machine learning technologies and constantly learn new technologies to stay up-to-date with the latest trends.</p>
+<p> I'm a passionate Data Scientist from Bangladesh with over two years of experience (Research Assistant) in building automated systems using Python, Machine Learning, Deep Learning, Natural Language Processing, etc. I have a strong foundation in machine learning and constantly learn new technologies to stay up-to-date with the latest trends.</p>
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
