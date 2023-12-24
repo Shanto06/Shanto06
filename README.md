@@ -5,7 +5,7 @@
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-<p>Currently, I am working at Polygon Technology as a Software Engineer(Intern).</p>
+<p>Currently, I am working at Polygon Technology as a Software Engineer (Intern).</p>
 
 <h3 align = "left"> 🧠 What I'm currently learning </h3>
 
