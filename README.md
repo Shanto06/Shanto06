@@ -64,6 +64,7 @@
 <ul>
   <li> Machine Learning and Deep Learning LAB, Dept. of CSE, JUST, Research Assistant, Mar. 2021 - Jan. 2023. <br>
 My responsibilities included conducting literature reviews, preparing and analyzing data, developing and implementing machine learning models, writing technical reports and presenting research findings, collaborating with team members, and staying up-to-date with the latest developments in the field. My one of greatest project is Decision Support System for Pest Control in Agriculture which funded by ICT Division. Technologies used: Deep Learning, Python, anaconda, Jupyter Notebook.</li>
+  <li>Software Engineer at Polygon Technology</li>
   <li>Software Engineer (Trainee) at BJIT</li>
 </ul>
 
