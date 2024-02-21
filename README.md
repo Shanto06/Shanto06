@@ -5,7 +5,7 @@
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-<p>Currently, I am working at Polygon Technology as a Software Engineer (Intern).</p>
+<p>Currently, I am working at Polygon Technology as a Software Engineer.</p>
 
 <h3 align = "left"> 🧠 What I'm currently learning </h3>
 
@@ -15,7 +15,7 @@
 
 <ul>
   <li>Topics: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Git/GitHub, Java, Spring Boot</li>
-  <li>Technologies: Tensorflow, Opencv, Pytorch, Numpy, Pandas, Scikit-Learn</li>
+  <li>Technologies: Tensorflow, Opencv, Pytorch, Numpy, Pandas, Scikit-Learn, Spring Boot</li>
 </ul>
 
 
